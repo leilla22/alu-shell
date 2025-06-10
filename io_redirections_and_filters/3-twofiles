@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "=== /etc/passwd ===\n$(cat /etc/passwd)\n\n=== /etc/hosts ===\n$(cat /etc/hosts)"
+cat etc/passwd etc/hosts
