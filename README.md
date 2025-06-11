@@ -1,1 +1,2 @@
-Scripts for shell I/O redirections and filters
+#!/bin/bash
+my_first_io_redirections_and_filters
